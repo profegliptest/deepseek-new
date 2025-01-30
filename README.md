@@ -2,12 +2,8 @@
 
 # Deduction Rules  
 
-# Deduction Rules  
-
 <div style="text-align: justify;">  
-
 The **expense** = number of tokens × price. The corresponding fees will be directly deducted from your **topped-up balance** or **granted balance**, with a preference for using the granted balance first when both balances are available. Product prices may vary, and **DeepSeek reserves the right to adjust them**. We recommend **topping up based on your actual usage** and **regularly checking this page** for the most recent pricing information.  
-
 </div>
 
 
