@@ -23,7 +23,8 @@ Product prices may vary, and **DeepSeek reserves the right to adjust them**. We 
 
 
 <img src="https://github.com/profegliptest/deepseek-new/blob/d35c2d8c52957c1f36d9e6be02874b587cac9ef3/benchmark.png" />
-![Benchmark](https://github.com/profegliptest/deepseek-new/blob/d35c2d8c52957c1f36d9e6be02874b587cac9ef3/benchmark.png)
+
+![Benchmark](https://raw.githubusercontent.com/profegliptest/deepseek-new/refs/heads/main/Banner.jpg)
 
 
 
